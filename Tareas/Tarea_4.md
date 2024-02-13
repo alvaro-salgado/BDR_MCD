@@ -122,4 +122,5 @@ VALUES ('Great Britain','13 May 1950','Nino Farina FAR','Alfa Romeo', 70,'2:13:2
 	SELECT * FROM pilotos ;
 	SELECT * FROM vueltas_rapidas;
 
-    ```
+
+```
