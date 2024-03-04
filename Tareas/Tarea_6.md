@@ -49,4 +49,3 @@ LIMIT 1
 `----------------------+----+`<br>
 `Michael Schumacher MSC|  76|`
 
-Reporta hallazgos
